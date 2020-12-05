@@ -1,2 +1,2 @@
 # Program_Quadrante
-Algoritmo que lê um par de coordenadas (x,y) inteiras e imprime uma mensagem informando em qual quadrante está o ponto. O programa também informa se o ponto está no eixo central.
+Algorithm that reads a pair of coordinates (x,y) integers and prints a message informing in which quadrant is the correspondent value. The program also shows if the value is on the central axis.
